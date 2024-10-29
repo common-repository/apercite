@@ -1,0 +1,12 @@
+div#apercite-thumbnail {
+	padding:0px;
+	margin:0px;
+	
+	position:absolute;
+	display:none;
+	z-index:999999;
+	
+	border:1px solid #000000;
+	width:0px;
+	height:0px;
+}
